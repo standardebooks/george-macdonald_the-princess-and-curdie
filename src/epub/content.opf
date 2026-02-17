@@ -29,52 +29,52 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Princess and Curdie</dc:title>
 		<meta property="file-as" refines="#title">Princess and Curdie, The</meta>
-		<dc:subject id="subject-1">Fantasy literature</dc:subject>
+		<dc:subject id="subject-1">Children's stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCHS</meta>
-		<meta property="term" refines="#subject-1">sh85047145</meta>
+		<meta property="term" refines="#subject-1">sh85023780</meta>
 		<dc:subject id="subject-2">Fairy tales</dc:subject>
 		<meta property="authority" refines="#subject-2">LCHS</meta>
 		<meta property="term" refines="#subject-2">sh85046925</meta>
-		<dc:subject id="subject-3">Children's stories</dc:subject>
+		<dc:subject id="subject-3">Fantasy literature</dc:subject>
 		<meta property="authority" refines="#subject-3">LCHS</meta>
-		<meta property="term" refines="#subject-3">sh85023780</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-3">sh85047145</meta>
+		<meta property="se:subject">Children’s</meta>
+		<meta property="se:subject">Fantasy</meta>
+		<dc:description id="description">A young miner accepts a mysterious commission will test his faithfulness and restore justice to a faltering kingdom.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Following the events of &lt;a href="https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin"&gt;The Princess and the Goblin&lt;/a&gt;, Curdie has returned to his provincial life of hard but satisfying work with his father in the king's silver mines. When an act of youthful cruelty leads him to a meeting with Princess Irene's great-great-grandmother, he is charged with a mysterious quest, one that will require strength, wit, and courage.&lt;/p&gt;
+			&lt;p&gt;Bestowed with a supernatural ability to aid him on his mission, Curdie and a ferocious new companion must journey to the capital where Princess Irene and her father, the king, face a grave threat to the entire kingdom.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/36612</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/princesscurdie00macdiala</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Princess_and_Curdie</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-macdonald_the-princess-and-curdie</meta>
 		<dc:creator id="author">George MacDonald</dc:creator>
 		<meta property="file-as" refines="#author">MacDonald, George</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_MacDonald</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78096948</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Matthias Grünewald</dc:contributor>
+		<meta property="file-as" refines="#artist">Grünewald, Matthias</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Matthias_Gr%C3%BCnewald</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50059019</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">E-text prepared by Matthew Wheaton</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
+		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Suzanne, Shell</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Suzanne Shell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Suzanne, Shell</meta>
+		<dc:contributor id="transcriber-2">Matthew Wheaton</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Wheaton, Matthew</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">C. B. Bowman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bowman, C. B.</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/cbbowman</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
