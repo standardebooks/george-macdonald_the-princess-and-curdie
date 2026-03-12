@@ -42,7 +42,7 @@
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">A young miner accepts a mysterious commission will test his faithfulness and restore justice to a faltering kingdom.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Following the events of &lt;a href="https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin"&gt;The Princess and the Goblin&lt;/a&gt;, Curdie has returned to his provincial life of hard but satisfying work with his father in the king's silver mines. When an act of youthful cruelty leads him to a meeting with Princess Irene's great-great-grandmother, he is charged with a mysterious quest, one that will require strength, wit, and courage.&lt;/p&gt;
+			&lt;p&gt;Following the events of &lt;a href="https://standardebooks.org/ebooks/george-macdonald/the-princess-and-the-goblin"&gt;The Princess and the Goblin&lt;/a&gt;, Curdie has returned to his provincial life of hard but satisfying work with his father in the king’s silver mines. When an act of youthful cruelty leads him to a meeting with Princess Irene’s great-great-grandmother, he is charged with a mysterious quest, one that will require strength, wit, and courage.&lt;/p&gt;
 			&lt;p&gt;Bestowed with a supernatural ability to aid him on his mission, Curdie and a ferocious new companion must journey to the capital where Princess Irene and her father, the king, face a grave threat to the entire kingdom.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
